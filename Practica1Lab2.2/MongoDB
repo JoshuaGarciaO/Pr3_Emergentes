@@ -1,0 +1,6 @@
+mongo ds161939.mlab.com:61939/mydb -u <dbuser> -p <dbpassword> 
+
+mongodb://<dbuser>:<dbpassword>@ds161939.mlab.com:61939/mydb
+
+
+APIkey:  wsK46ID_oLmSo8xzMtDVQvIFu_u8yxEL

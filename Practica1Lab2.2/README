@@ -1,0 +1,13 @@
+*************
+*  PRÁCTICA 1
+* (c) Rafael Berlanga
+*************
+
+Para probar el funcionamiento del API REST de prueba debes seguir los siguientes pasos:
+
+ 1) Ejecuta: node test_storage.js para crear unos datasets de prueba.
+ 2) Ejecuta: node myServer.js para poner en marcha el servicio REST.
+ 3) Ejecuta: node test_server.js desde otra terminal para hacer unas llamadas de prueba al servicio.
+ 4) Ejecuta: node test_twitter.js para probar el streaming de Twitter durante 20 segundos.
+
+¡¡Y a empezar la práctica!!
